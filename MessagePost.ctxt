@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=author\ text
+comment0.target=MessagePost(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ like()
+comment2.params=
+comment2.target=void\ unlike()
+comment3.params=text
+comment3.target=void\ addComment(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getText()
+comment5.params=
+comment5.target=long\ getTimeStamp()
+comment6.params=
+comment6.target=void\ display()
+comment7.params=time
+comment7.target=java.lang.String\ timeString(long)
+numComments=8
